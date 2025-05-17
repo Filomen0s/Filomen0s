@@ -1,13 +1,13 @@
 <div>
  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gab_loren7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jgfilomeno/)
  <!-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lorenssetti-8a352a29b/) -->
  
 </div>
 
 <div style="display:flex;">
  
-![Gabriel Lorenssetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Gab-loren7&show_icons=true&theme=transparent)
+![João Wiese GitHub stats](https://github-readme-stats.vercel.app/api?username=Filomen0s&show_icons=true&theme=transparent)
 <img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filomen0s&layout=compact&langs_count=7&theme=transparent"/> 
 </div>
 
