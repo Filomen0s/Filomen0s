@@ -20,10 +20,12 @@
   </h3>
   <br>
  
- <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="JAVA" src="https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=JAVA&logoColor=white">
+ <img height="60" align="center" alt="HTML" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
+ <img height="60" align="center" alt="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+ <img height="60" align="center" alt="JS" src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/javascript.svg">
+ <img height="80" align="center" alt="JAVA" src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/java.svg">
+ <img height="60" align="center" alt="POSTGRESQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Light.svg">
+ 
 </div>
 
 <h1></h1>
