@@ -8,7 +8,7 @@
 <div style="display:flex;">
  
 ![João Wiese GitHub stats](https://github-readme-stats.vercel.app/api?username=Filomen0s&show_icons=true&theme=transparent)
-<img height="195em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filomen0s&layout=compact&langs_count=7&theme=transparent"/> 
+<img height="160em" loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filomen0s&layout=compact&langs_count=7&theme=transparent"/> 
 </div>
 
 <h1></h1>
