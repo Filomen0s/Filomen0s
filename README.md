@@ -15,7 +15,7 @@
 <h1></h1>
 <div>
   <h3>
-    Linguagens de Programação 💻
+    Linguagens 💻
   </h3>
   <br>
  
