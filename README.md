@@ -6,9 +6,7 @@
 </div>
 
 <div style="display:flex;" aling="center">
-   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filomen0s&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
+
 </div>
 
 <h1></h1>
